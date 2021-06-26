@@ -37,5 +37,3 @@ object spark_deepika_obj {
 
  }
 }
-
-Hi my name is Raj and modified by  Raj
